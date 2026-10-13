@@ -1,0 +1,13 @@
+lead_id,name,email,company,source,tag,created_at
+L-1001,Priya Sharma,priya.sharma@brightloop.io,Brightloop,website,Warm,2026-09-02
+L-1002,Daniel Okafor,Daniel.Okafor@Northwind.co,Northwind,referral,Hot,2026-09-05
+L-1003,Aisha Khan,aisha@kitestudio.com,Kite Studio,website,Cold,2026-09-08
+L-1004,Liam Brennan,liam.brennan@harbourlabs.ie,Harbour Labs,linkedin,Warm,2026-09-11
+L-1005,Mei Chen,mei.chen@quillcraft.co,Quillcraft,website,Hot,2026-09-14
+L-1006,Rahul Verma,rahul@stackmint.in,Stackmint,event,Cold,2026-09-17
+L-1007,Sofia Rossi,sofia.rossi@verdeagency.it,Verde Agency,website,Warm,2026-09-20
+L-1008,Tom Walsh,tom@acmelogistics.com,Acme Logistics,referral,Warm,2026-09-23
+L-1009,Grace Adeyemi,grace@lumenhealth.ng,Lumen Health,website,Cold,2026-09-26
+L-1010,Ethan Clarke,ethan.clarke@fieldnote.uk,Fieldnote,linkedin,Hot,2026-09-29
+L-1011,Nadia Petrova,nadia@orbitpay.eu,OrbitPay,website,Warm,2026-10-02
+L-1012,Kenji Watanabe,kenji@tidewater.jp,Tidewater,event,Cold,2026-10-05
